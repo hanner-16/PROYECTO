@@ -6,7 +6,8 @@ package game;
 
 /**
  *
- * @author ivan
+ * @author Hanner Sinisterra
+ * @author Daniel Gallego
  */
 
 
